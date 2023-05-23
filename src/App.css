@@ -1,0 +1,16 @@
+.logo {
+  max-width: 30%;
+  display:inline-block;
+  justify-content: right;
+  margin-right: 2rem;
+}
+
+.navbar {
+  background-image: linear-gradient(to right, #4285F4, #4FC3F7, #1CE9B6,#00BFA5 );
+}
+
+.site-footer {
+  background-image: linear-gradient(#B3E5FC, white);
+  padding: 20px 0;
+  margin-top: 2rem;
+}
