@@ -1,8 +1,13 @@
-.logo {
+.navbar-brand {
   max-width: 30%;
-  display:inline-block;
-  justify-content: right;
   margin-right: 2rem;
+}
+
+.navbar-brand img {
+  width: 100%;
+  height: 100%;
+  margin-right: 2rem;
+  max-width: 50%;
 }
 
 .navbar {
